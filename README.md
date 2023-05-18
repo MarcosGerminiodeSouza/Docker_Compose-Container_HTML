@@ -1,6 +1,6 @@
 # Criando um Container de uma Aplicação WEB
 
-Projeto demonstrando como subir um container Apache com um simples HTML
+Projeto usando Docker Compose, demonstrando como subir um container Apache com um simples HTML
 
 ## Docker Compose
 
